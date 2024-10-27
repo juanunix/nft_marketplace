@@ -12,8 +12,6 @@ https://www.youtube.com/watch?v=DoA_D6tmo6o
 
 
 ## :camera_flash: Screens :
-| Coin List | Coin Detail (BTC) | Coin Detail (BNB) |  
+| Login | Home | Detail |  
 |:-:|:-:|:-:|
-| ![login](https://github.com/user-attachments/assets/594c54fa-2dee-4b74-ae95-2dd2098e4f26)
-| ![home](https://github.com/user-attachments/assets/b4fe6b35-3a77-473a-b16e-67316a3e9a56)
-| ![detail](https://github.com/user-attachments/assets/c79deed5-aa3e-42c0-a326-ae56958ccaf1) |
+| ![login](https://github.com/user-attachments/assets/594c54fa-2dee-4b74-ae95-2dd2098e4f26)| ![home](https://github.com/user-attachments/assets/b4fe6b35-3a77-473a-b16e-67316a3e9a56)| ![detail](https://github.com/user-attachments/assets/c79deed5-aa3e-42c0-a326-ae56958ccaf1) |
